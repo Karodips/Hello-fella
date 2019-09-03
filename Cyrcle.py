@@ -1,0 +1,5 @@
+p = float(3.14)
+print ('Please enter number')
+a = float(input())
+print('Lenght of your circle ', p*a)
+input('Press ENTER to close program')
