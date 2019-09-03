@@ -1,0 +1,5 @@
+print('Enter numbers')
+a = float(input())
+b = float(input())
+print('Average is ', str((a+b)/2))
+input('Press ENTER to close program')
