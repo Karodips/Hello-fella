@@ -1,3 +1,6 @@
+'''
+Задание 5 сумма, произведение, разность, частное модулей
+'''
 print('Enter numbers')
 a = float(input())
 b = float(input())
